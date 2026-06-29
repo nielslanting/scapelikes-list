@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "update:list": "node scripts/validate-list.js --write",
+    "validate:list": "node scripts/validate-list.js --check"
+  },
+  "devDependencies": {}
+}
