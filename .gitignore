@@ -1,0 +1,17 @@
+# Editors and IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+*.swp
+*.swo
+*~
+
+node_modules/
+dist/
+package-lock.json
+
+# OS metadata
+.DS_Store
+Thumbs.db
