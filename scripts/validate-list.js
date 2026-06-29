@@ -77,7 +77,9 @@ function isTableRow(line) {
 function normalizeRow(line) {
   return line.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (_match, label, url) => {
     const normalizedUrl = normalizeUrl(url);
-    const normalizedLabel = getCanonicalLabel(normalizedUrl) ?? label;
+    const normalizedLabel =
+      getCanonicalLabel(normalizedUrl) ??
+      (isUrlLabel(label) ? getReadableDomainLabel(normalizedUrl) : label);
     return `[${normalizedLabel}](${normalizedUrl})`;
   });
 }
@@ -129,28 +131,76 @@ function getCanonicalLabel(url) {
   }
 
   const hostname = parsed.hostname.toLowerCase().replace(/^www\./, "");
-
-  if (hostname === "store.steampowered.com") {
-    return "Steam";
+  const subredditLabel = getSubredditLabel(parsed, hostname);
+  if (subredditLabel) {
+    return subredditLabel;
   }
 
-  if (hostname === "itch.io" || hostname.endsWith(".itch.io")) {
-    return "Itch";
-  }
+  const platformLabels = [
+    [["store.steampowered.com"], "Steam"],
+    [["itch.io"], "Itch"],
+    [["x.com", "twitter.com"], "X"],
+    [["play.google.com"], "Android"],
+    [["apps.apple.com"], "iOS"],
+    [["facebook.com", "fb.com", "m.facebook.com"], "Facebook"],
+    [["tiktok.com"], "TikTok"],
+    [["youtube.com", "youtu.be", "m.youtube.com"], "YouTube"],
+    [["instagram.com"], "Instagram"],
+    [["discord.com", "discord.gg"], "Discord"],
+    [["twitch.tv"], "Twitch"],
+    [["reddit.com"], "Reddit"],
+    [["github.com"], "GitHub"],
+    [["threads.net"], "Threads"],
+    [["bsky.app"], "Bluesky"],
+    [["patreon.com"], "Patreon"],
+    [["kickstarter.com"], "Kickstarter"],
+    [["t.me", "telegram.me", "telegram.org"], "Telegram"],
+    [["xiaohongshu.com", "xhslink.com"], "RedNote"],
+    [["bilibili.com", "b23.tv"], "Bilibili"],
+    [["weibo.com"], "Weibo"],
+    [["taptap.cn", "taptap.io"], "TapTap"],
+    [["douyin.com", "iesdouyin.com"], "Douyin"],
+    [["weixin.qq.com", "mp.weixin.qq.com"], "WeChat"],
+    [["qm.qq.com", "jq.qq.com", "qun.qq.com"], "QQ"],
+    [["tieba.baidu.com"], "Baidu Tieba"],
+  ];
 
-  if (hostname === "x.com") {
-    return "X";
-  }
-
-  if (hostname === "play.google.com") {
-    return "Android";
-  }
-
-  if (hostname === "apps.apple.com") {
-    return "iOS";
+  for (const [domains, label] of platformLabels) {
+    if (domains.some((domain) => hostname === domain || hostname.endsWith(`.${domain}`))) {
+      return label;
+    }
   }
 
   return null;
+}
+
+function getSubredditLabel(parsed, hostname) {
+  if (hostname !== "reddit.com" && !hostname.endsWith(".reddit.com")) {
+    return null;
+  }
+
+  const match = parsed.pathname.match(/^\/r\/([^/]+)/i);
+  if (!match) {
+    return null;
+  }
+
+  try {
+    return `r/${decodeURIComponent(match[1])}`;
+  } catch {
+    return `r/${match[1]}`;
+  }
+}
+
+function isUrlLabel(label) {
+  return /^https?:\/\//i.test(label.trim());
+}
+
+function getReadableDomainLabel(url) {
+  try {
+    return new URL(url).hostname.toLowerCase().replace(/^www\./, "");
+  } catch {
+    return "Website";
+  }
 }
 
 function compareRowsByTitle(left, right) {
