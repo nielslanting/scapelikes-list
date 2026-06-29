@@ -1,146 +1,73 @@
-
-
 List of Scapelikes
 
-
-
 |Title|Link|Social media|Genre|Status|
-
 |:-|:-|:-|:-|:-|
-
 |Ancients Reborn|\[https://play.google.com/store/apps/details?id=com.sensoryplayapps.adventure\&hl=en](https://play.google.com/store/apps/details?id=com.sensoryplayapps.adventure\&hl=en\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/CdzJp3B](https://discord.com/invite/CdzJp3B?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG (mobile)|Available|
-
 |ANTIQA|\[https://pikkufighter.itch.io/antiqa](https://pikkufighter.itch.io/antiqa?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://www.youtube.com/playlist?list=PLl2GTGaalEvicqw0uFZ9aLNsyDVfVB15A](https://www.youtube.com/playlist?list=PLl2GTGaalEvicqw0uFZ9aLNsyDVfVB15A\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Playtest|
-
 |AWplanet|\[https://thebigmmorpglist.com/game/awplanet/](https://thebigmmorpglist.com/game/awplanet/?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://www.mmorpg.com/awplanet](https://www.mmorpg.com/awplanet?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Shutdown|
-
 |Berrus|\[https://store.steampowered.com/app/4126930/Berrus](https://store.steampowered.com/app/4126930/Berrus/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/4W2pRskauu](https://discord.gg/4W2pRskauu?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Tactical RPG|Alpha|
-
 |BitCraft Online|\[https://store.steampowered.com/app/3454650/BitCraft\\\_Online/](https://store.steampowered.com/app/3454650/BitCraft\_Online/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/bitcraft](https://discord.com/invite/bitcraft?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Early Access|
-
 |Bloobs: Adventure Idle|\[https://store.steampowered.com/app/2942780/Bloobs\\\_Adventure\\\_Idle/](https://store.steampowered.com/app/2942780/Bloobs\_Adventure\_Idle/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/zdjA4E9S92](https://discord.com/invite/zdjA4E9S92?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Idle RPG|Early Access|
-
 |Brighter Shores|\[https://store.steampowered.com/app/2791440/Brighter\\\_Shores/](https://store.steampowered.com/app/2791440/Brighter\_Shores/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/playbrightershores](https://discord.gg/playbrightershores?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Early Access|
-
 |Cambria|\[https://beta.cambria.gg/](https://beta.cambria.gg/?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://x.com/playcambria](https://x.com/playcambria?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Risk-to-earn MMO (Blockchain)|Beta|
-
 |Copperfell|\[https://store.steampowered.com/app/3708630/Copperfell/](https://store.steampowered.com/app/3708630/Copperfell/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/k6C7WPwc5U](https://discord.gg/k6C7WPwc5U?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Adventure/RPG|Demo available|
-
 |Cow Online World|\[https://store.steampowered.com/app/4634930/Cow\\\_Online\\\_World/](https://store.steampowered.com/app/4634930/Cow\_Online\_World/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://www.discord.gg/XC8sy7kCx2](https://www.discord.gg/XC8sy7kCx2?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Available|
-
 |Eldara|\[https://store.steampowered.com/app/4746070/Eldara/](https://store.steampowered.com/app/4746070/Eldara/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/XHUyX4ScSQ](https://discord.com/invite/XHUyX4ScSQ?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Idle/Incremental|Early Access|
-
 |Eldevin|\[https://store.steampowered.com/app/298160/Eldevin/](https://store.steampowered.com/app/298160/Eldevin/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.huntedcow.com/](https://discord.huntedcow.com/?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Available|
-
 |Embrune|\[https://embrune.itch.io/embrune](https://embrune.itch.io/embrune?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/invite/tfUuXwWpkH](https://discord.gg/invite/tfUuXwWpkH?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Idler|Early Access|
-
 |Eternals: Online|\[https://eternalsonline.com/](https://eternalsonline.com/?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/qPgxrn5xRg](https://discord.com/invite/qPgxrn5xRg?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Idler|Early Access|
-
 |ETHYRIAL|\[https://store.steampowered.com/app/1277920/ETHYRIAL/](https://store.steampowered.com/app/1277920/ETHYRIAL/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/S4MVcD24CD](https://discord.gg/S4MVcD24CD?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Available|
-
 |Everlast: Undying Tale|\[https://store.steampowered.com/app/3818450/Everlast\\\_Undying\\\_Tale/](https://store.steampowered.com/app/3818450/Everlast\_Undying\_Tale/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/hNsxXkWm98](https://discord.gg/hNsxXkWm98?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Multiplayer Action RPG|Alpha|
-
 |EvilQuest|\[https://evilquest.net/](https://evilquest.net/?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/SSXyYY8Vx9](https://discord.com/invite/SSXyYY8Vx9?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Early Access|
-
 |Exodus of Descent|\[https://store.steampowered.com/app/2320740/Exodus\\\_of\\\_Descent/](https://store.steampowered.com/app/2320740/Exodus\_of\_Descent/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/yoopergamestudiosllc](https://discord.gg/yoopergamestudiosllc?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|PvE RPG dungeon looter|In development|
-
 |Flat MMO|\[https://flatmmo.com/](https://flatmmo.com/?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/UdxKGQjkUh](https://discord.com/invite/UdxKGQjkUh?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Idler/MMO|Available|
-
 |Genfanad|\[https://store.steampowered.com/app/1976290/Genfanad\\\_A\\\_Generic\\\_Fantasy\\\_Adventure/](https://store.steampowered.com/app/1976290/Genfanad\_A\_Generic\_Fantasy\_Adventure/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/uN3Vvsv](https://discord.gg/uN3Vvsv?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG - TCG hybrid|Shutdown|
-
 |Glenwich Idle MMO|\[https://store.steampowered.com/app/4372860/Glenwich\\\_Idle\\\_MMO/](https://store.steampowered.com/app/4372860/Glenwich\_Idle\_MMO/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/9R8EYQHgXK](https://discord.com/invite/9R8EYQHgXK?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Idler|Early Access|
-
 |Guinea Isles|\[https://store.steampowered.com/app/3872060/Guinea\\\_Isles/](https://store.steampowered.com/app/3872060/Guinea\_Isles/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2F8rWAdVPJ8T](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2F8rWAdVPJ8T\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Idle-lite|Demo available|
-
 |Heartwood Online|\[https://store.steampowered.com/app/2180600/Heartwood\\\_Online/](https://store.steampowered.com/app/2180600/Heartwood\_Online/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/heartwoodonline](https://discord.gg/heartwoodonline?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|2D MMORPG|Early Access|
-
 |HighSpell|\[https://highspell.com/](https://highspell.com/?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/highspell](https://discord.com/invite/highspell?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Available|
-
 |HyperScape|\[https://github.com/HyperscapeAI](https://github.com/HyperscapeAI?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://x.com/hyperscapeai](https://x.com/hyperscapeai?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG (AI/Blockchain)|In development|
-
 |Idle clans|\[https://store.steampowered.com/app/2103530/Idle\\\_Clans/](https://store.steampowered.com/app/2103530/Idle\_Clans/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/MnagNdgrQg](https://discord.com/invite/MnagNdgrQg?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Idler|Early Access|
-
 |Idle Journey|\[https://idle-journey.com/](https://idle-journey.com/?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/pNc4CFRjvk](https://discord.com/invite/pNc4CFRjvk?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|RPG/Idler|In development|
-
 |IdleWorlds|\[https://idleworlds.com/](https://idleworlds.com/?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/Ad3PzKKbp7](https://discord.com/invite/Ad3PzKKbp7?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Idler|Early Access|
-
 |Ironwood RPG|\[https://ironwoodrpg.com/](https://ironwoodrpg.com/?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/tNAH9fMVqx](https://discord.gg/tNAH9fMVqx?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Idler|Available|
-
 |Kaetram|\[https://store.steampowered.com/app/2716120/Kaetram/](https://store.steampowered.com/app/2716120/Kaetram/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/kaetram](https://discord.com/invite/kaetram?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG (2D)|Early Access|
-
 |Knightlet|\[https://knightlet.com/](https://knightlet.com/?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://x.com/niels\\\_lanting](https://x.com/niels\_lanting?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|RPG|In development|
-
 |Land Drifters|\[https://store.steampowered.com/app/2294720/Land\\\_Drifters/](https://store.steampowered.com/app/2294720/Land\_Drifters/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/KVpVqFreHu](https://discord.gg/KVpVqFreHu?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Incremental RPG|Early Access|
-
 |Liten RPG|\[https://store.steampowered.com/app/4452280/Liten\\\_RPG/](https://store.steampowered.com/app/4452280/Liten\_RPG/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://kexon.itch.io/liten-rpg](https://kexon.itch.io/liten-rpg?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|RPG|Alpha|
-
 |Lumora|\[https://playlumora.online/](https://playlumora.online/?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/TGQuBcptWH](https://discord.com/invite/TGQuBcptWH?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Alpha|
-
 |Meadowlands Online|\[https://playmeadowlands.online/](https://playmeadowlands.online/?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/hgcyfzVdjd](https://discord.com/invite/hgcyfzVdjd?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|In development|
-
 |Medieval Lands|\[https://www.medievallands.com/](https://www.medievallands.com/?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/PWnzhjekjb](https://discord.gg/PWnzhjekjb?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|In development|
-
 |Melvor Idle|\[https://store.steampowered.com/app/1267910/Melvor\\\_Idle/](https://store.steampowered.com/app/1267910/Melvor\_Idle/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/melvoridle](https://discord.com/invite/melvoridle?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Idler|Available|
-
 |Microscape|\[https://microscape.cc/](https://microscape.cc/?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/EBUX4WSxH3](https://discord.com/invite/EBUX4WSxH3?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Twitch game|Open Beta|
-
 |Mist Of Time|\[https://store.steampowered.com/app/3192150/Mist\\\_Of\\\_Time/](https://store.steampowered.com/app/3192150/Mist\_Of\_Time/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/bw4Uayz7vE](https://discord.com/invite/bw4Uayz7vE?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|(m)MORPG|Early Access|
-
 |New Aeven|\[https://aeven.xyz/](https://aeven.xyz/?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/DEUEhkrAms](https://discord.gg/DEUEhkrAms?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Open Beta|
-
 |Orake Classic|\[https://store.steampowered.com/app/516510/Orake\\\_Classic/](https://store.steampowered.com/app/516510/Orake\_Classic/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Fn8ZT8Qw](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Fn8ZT8Qw\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|ORPG|Shutdown|
-
 |Order of the Elements|\[https://store.steampowered.com/app/2617430/Order\\\_of\\\_the\\\_Elements/](https://store.steampowered.com/app/2617430/Order\_of\_the\_Elements/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/ZTb7juM](https://discord.com/invite/ZTb7juM?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|In development|
-
 |Pow Vista|\[https://store.steampowered.com/app/2512620/Pow\\\_Vista/](https://store.steampowered.com/app/2512620/Pow\_Vista/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/powvista](https://discord.gg/powvista?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Available|
-
 |Realm of Simplicity|\[https://store.steampowered.com/app/2354570/Realm\\\_of\\\_Simplicity\\\_MMORPG/](https://store.steampowered.com/app/2354570/Realm\_of\_Simplicity\_MMORPG/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/DMbEUQTJFy](https://discord.gg/DMbEUQTJFy?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Early Access|
-
 |Remote Realms|\[https://www.remoterealms.com/home](https://www.remoterealms.com/home?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/jtNKEVtvwd](https://discord.com/invite/jtNKEVtvwd?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Available|
-
 |Reconquer Online|\[https://store.steampowered.com/app/3217360/Reconquer\\\_Online/](https://store.steampowered.com/app/3217360/Reconquer\_Online/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/5VqPUfdMn9](https://discord.gg/5VqPUfdMn9?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Early Access|
-
 |Rocky Idle|\[https://store.steampowered.com/app/3852250/Rocky\\\_Idle/](https://store.steampowered.com/app/3852250/Rocky\_Idle/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/xBkztEaxR8](https://discord.gg/xBkztEaxR8?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Idler|In development|
-
 |RogueScape|\[https://store.steampowered.com/app/4793330/RogueScape/](https://store.steampowered.com/app/4793330/RogueScape/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/X8XNmMauYR](https://discord.com/invite/X8XNmMauYR?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Roguelike|In development|
-
 |RPG MO|\[https://store.steampowered.com/app/372800/RPG\\\_MO/](https://store.steampowered.com/app/372800/RPG\_MO/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/JukjKts](https://discord.gg/JukjKts?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Early Access|
-
 |RuneKingdom|\[https://store.steampowered.com/app/3630480/RuneKingdom/](https://store.steampowered.com/app/3630480/RuneKingdom/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/RQdxdfVhKy](https://discord.com/invite/RQdxdfVhKy?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Idler|Demo|
-
 |SankoQuest|\[https://x.com/SankoGameCorp](https://x.com/SankoGameCorp?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://x.com/SankoGameCorp](https://x.com/SankoGameCorp?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG (Blockchain)|In development|
-
 |Scapewatch: Idle MMO|\[https://store.steampowered.com/app/4671380/Scapewatch\\\_Idle\\\_MMO/](https://store.steampowered.com/app/4671380/Scapewatch\_Idle\_MMO/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/7tsv4mbGRR](https://discord.gg/7tsv4mbGRR?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)| Idle MMO|In development|
-
 |Shadows of Tuonela|\[https://store.steampowered.com/app/3540820/Shadows\\\_of\\\_Tuonela/](https://store.steampowered.com/app/3540820/Shadows\_of\_Tuonela/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/sNXBgM2](https://discord.com/invite/sNXBgM2?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Multiplayer RPG|In development|
-
 |Shredded Faith|\[https://store.steampowered.com/app/2641510/Shredded\\\_Faith/](https://store.steampowered.com/app/2641510/Shredded\_Faith/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/Q8smXAzSTq](https://discord.gg/Q8smXAzSTq?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|In development|
-
 |SlimeVille Online|\[https://slimeville.online/](https://slimeville.online/?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/4up2AueW3f](https://discord.gg/4up2AueW3f?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Early Access|
-
 |Stein world|\[https://store.steampowered.com/app/1049660/steinworld/](https://store.steampowered.com/app/1049660/steinworld/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/YcJGgnxWzd](https://discord.gg/YcJGgnxWzd?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Available|
-
 |StoicScape|\[https://store.steampowered.com/app/2687820/StoicScape/](https://store.steampowered.com/app/2687820/StoicScape/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/Agfnch2EwZ](https://discord.gg/Agfnch2EwZ?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMO-Lite|Available|
-
 |The Black Grimoire: Cursebreaker|\[https://store.steampowered.com/app/1189290/The\\\_Black\\\_Grimoire\\\_Cursebreaker/](https://store.steampowered.com/app/1189290/The\_Black\_Grimoire\_Cursebreaker/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/gsBnQAbJ6t](https://discord.com/invite/gsBnQAbJ6t?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|RPG|Available|
-
 |The Freeblades|\[https://store.steampowered.com/app/3983160/The\\\_Freeblades/](https://store.steampowered.com/app/3983160/The\_Freeblades/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/ZTb7juM](https://discord.com/invite/ZTb7juM?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|CO-OP Dungeon-Adventure RPG|In development|
-
 |Titan Reach|\[https://www.mmorpg.com/news/titanreach-suddenly-ends-development-nfts-and-crypto-were-goals-for-its-future-2000124325](https://www.mmorpg.com/news/titanreach-suddenly-ends-development-nfts-and-crypto-were-goals-for-its-future-2000124325?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://www.facebook.com/PlayTitanReach](https://www.facebook.com/PlayTitanReach?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Shutdown|
-
 |Tombstone MMO|\[https://store.steampowered.com/app/2796800/Tombstone\\\_MMO/](https://store.steampowered.com/app/2796800/Tombstone\_MMO/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/y5BHVCphdp](https://discord.gg/y5BHVCphdp?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Shutdown|
-
 |Tomscape|\[https://store.steampowered.com/app/1135120/Tomscape/](https://store.steampowered.com/app/1135120/Tomscape/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/invite/Ye3HrWW](https://discord.gg/invite/Ye3HrWW?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Online RPG|Available|
-
 |Umbral Adventures|\[https://store.steampowered.com/app/4861480/Umbral\\\_Adventures/](https://store.steampowered.com/app/4861480/Umbral\_Adventures/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/NRDWswEH2a](https://discord.com/invite/NRDWswEH2a?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|In development|
-
 |Visseron Idle|\[https://store.steampowered.com/app/4601670/Visseron\\\_Idle/](https://store.steampowered.com/app/4601670/Visseron\_Idle/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.com/invite/ShRVzt43r2](https://discord.com/invite/ShRVzt43r2?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Idler|Available|
-
 |Walkscape|\[https://walkscape.app/](https://walkscape.app/?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/Kk6VecJFEk](https://discord.gg/Kk6VecJFEk?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|Walker|Available|
-
 |Winds of Valen|\[https://store.steampowered.com/app/4135880/Winds\\\_of\\\_Valen/](https://store.steampowered.com/app/4135880/Winds\_of\_Valen/?curator\_clanid=46043738\&utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|\[https://discord.gg/CKdTaXEJVm](https://discord.gg/CKdTaXEJVm?utm\_source=reddit\&utm\_medium=social\&utm\_campaign=scapelikes)|MMORPG|Available|
-
-
 
 Message me if anything on the list needs an update!
 
