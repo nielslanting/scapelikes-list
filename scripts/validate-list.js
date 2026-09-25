@@ -78,6 +78,7 @@ function normalizeRow(line) {
   return line.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (_match, label, url) => {
     const normalizedUrl = normalizeUrl(url);
     const normalizedLabel =
+      getExplicitLabelOverride(label, normalizedUrl) ??
       getCanonicalLabel(normalizedUrl) ??
       (isUrlLabel(label) ? getReadableDomainLabel(normalizedUrl) : label);
     return `[${normalizedLabel}](${normalizedUrl})`;
@@ -172,6 +173,19 @@ function getCanonicalLabel(url) {
   }
 
   return null;
+}
+
+function getExplicitLabelOverride(label, url) {
+  if (label !== "X Old") {
+    return null;
+  }
+
+  try {
+    const hostname = new URL(url).hostname.toLowerCase().replace(/^www\./, "");
+    return hostname === "x.com" || hostname === "twitter.com" ? label : null;
+  } catch {
+    return null;
+  }
 }
 
 function getSubredditLabel(parsed, hostname) {
